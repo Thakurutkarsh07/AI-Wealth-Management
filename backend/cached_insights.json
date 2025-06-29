@@ -1,0 +1,125 @@
+{
+  "Who are the top 5 clients by total portfolio value?": {
+    "summary": "Top 5 clients by total portfolio value.",
+    "graph_suggestion": {
+      "type": "bar_chart",
+      "labels": [
+        "C001",
+        "C007",
+        "C005",
+        "C009",
+        "C008"
+      ],
+      "values": [
+        5000000.0,
+        3700000.0,
+        3500000.0,
+        3200000.0,
+        3100000.0
+      ]
+    },
+    "table": {
+      "headers": [
+        "client_id",
+        "total_portfolio_value"
+      ],
+      "rows": [
+        [
+          "C001",
+          5000000.0
+        ],
+        [
+          "C007",
+          3700000.0
+        ],
+        [
+          "C005",
+          3500000.0
+        ],
+        [
+          "C009",
+          3200000.0
+        ],
+        [
+          "C008",
+          3100000.0
+        ]
+      ]
+    },
+    "graph_url": "https://quickchart.io/chart?c={\"type\":\"bar\",\"data\":{\"labels\":[\"C001\", \"C007\", \"C005\", \"C009\", \"C008\"],\"datasets\":[{\"label\":\"Who are the top 5 clients by total portfolio value?\",\"data\":[5000000.0, 3700000.0, 3500000.0, 3200000.0, 3100000.0]}]}}"
+  },
+  "Which are the top 5 stocks by investment amount?": {
+    "summary": "Top 5 stocks by investment amount.",
+    "graph_suggestion": {
+      "type": "bar_chart",
+      "labels": [
+        "Adani Power",
+        "Tata Motors",
+        "Infosys",
+        "Reliance",
+        "TCS"
+      ],
+      "values": [
+        4600000.0,
+        4500000.0,
+        3800000.0,
+        3700000.0,
+        3200000.0
+      ]
+    },
+    "table": {
+      "headers": [
+        "stock_name",
+        "total_investment"
+      ],
+      "rows": [
+        [
+          "Adani Power",
+          4600000.0
+        ],
+        [
+          "Tata Motors",
+          4500000.0
+        ],
+        [
+          "Infosys",
+          3800000.0
+        ],
+        [
+          "Reliance",
+          3700000.0
+        ],
+        [
+          "TCS",
+          3200000.0
+        ]
+      ]
+    },
+    "graph_url": "https://quickchart.io/chart?c={\"type\":\"bar\",\"data\":{\"labels\":[\"Adani Power\", \"Tata Motors\", \"Infosys\", \"Reliance\", \"TCS\"],\"datasets\":[{\"label\":\"Which are the top 5 stocks by investment amount?\",\"data\":[4600000.0, 4500000.0, 3800000.0, 3700000.0, 3200000.0]}]}}"
+  },
+  "Which relationship managers handle the largest portfolios?": {
+    "summary": "Aisha Gupta manages the largest portfolio with a total value of $12,050,000.",
+    "graph_suggestion": {
+      "type": "bar_chart",
+      "labels": [
+        "Aisha Gupta"
+      ],
+      "values": [
+        12050000.0
+      ]
+    },
+    "table": {
+      "headers": [
+        "manager_name",
+        "total_portfolio_value"
+      ],
+      "rows": [
+        [
+          "Aisha Gupta",
+          12050000.0
+        ]
+      ]
+    },
+    "graph_url": "https://quickchart.io/chart?c={\"type\":\"bar\",\"data\":{\"labels\":[\"Aisha Gupta\"],\"datasets\":[{\"label\":\"Which relationship managers handle the largest portfolios?\",\"data\":[12050000.0]}]}}"
+  }
+}
