@@ -267,4 +267,3 @@ Feel free to reach out if you want to collaborate, extend this project, or hire 
 
 ---
 
-Would you like this also exported as a `README.md` file or added to your GitHub template with badges and deployment links?
