@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+langchain
+langgraph
+google-generativeai
+pymysql
+pymongo
+sqlalchemy
+python-dotenv
+requests
+httpx
+tiktoken
